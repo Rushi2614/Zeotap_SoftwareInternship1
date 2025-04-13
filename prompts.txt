@@ -1,0 +1,3 @@
+"Prompt 1: Provide the algorithm for aggregating byte sizes and time durations."
+"Prompt 2: Generate a unit test for the new aggregation directive in Java."
+"Prompt 3: Suggest improvements to optimize the aggregation logic."
